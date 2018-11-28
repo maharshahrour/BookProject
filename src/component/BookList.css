@@ -1,0 +1,13 @@
+.book-list{
+    display: flex;
+    padding-bottom: 5%;
+    border-bottom: 1px solid black;
+    padding-top: 5%;
+}
+
+.content{
+      margin-left: 2%;
+}
+label{
+  font-weight: bold;
+}
